@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: wbuzy2vql-python-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/wbuzy2vql-python-gitops
